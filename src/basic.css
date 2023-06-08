@@ -1,0 +1,22 @@
+.burger__link {
+    font-size: 20px;
+    color: black;
+}
+
+.burger__link:hover {
+    color: rgb(117, 100, 100);
+}
+
+.about__burger {
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.about__burger-img {
+    max-width: 150px;
+    max-height: 150px;
+    border-radius: 10px;
+}
